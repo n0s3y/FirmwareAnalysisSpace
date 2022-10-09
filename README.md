@@ -10,3 +10,8 @@ sudo apt install vagrant virtualbox -y
 ```
 
 
+2. Install default Kali.
+```console
+vagrant init n0s3y/Kali && vagrant up
+```
+
