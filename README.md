@@ -24,7 +24,7 @@ cd FirmwareAnalysisSpace && vangrant up
 ```
 
 
-3. Install default Kali.
+3. OPTIONAL: if you want to install via default cloud.vagrant, do:.
 ```console
 vagrant init n0s3y/Kali && vagrant up
 ```
