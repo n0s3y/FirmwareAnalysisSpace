@@ -9,8 +9,13 @@ This projects leans on 'vagrant' and 'virtualbox'. Make sure this is installed.
 sudo apt install vagrant virtualbox -y
 ```
 
+2. Install base box via github.
+```console
+cd FirmwareAnalysisSpace && vangrant up
+```
 
-2. Install default Kali.
+
+3. Install default Kali.
 ```console
 vagrant init n0s3y/Kali && vagrant up
 ```
